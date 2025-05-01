@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
     title: "MP-6 OAuth Assignment",
-    description: "an app utilizing oauth from google (maybe) and github",
+    description: "an app utilizing oauth from google",
     icons: "https://imgcdn.sigstick.com/iNqRWEt8wH6CF38gOGUS/28-1.png" // cute cat image
 };
 
